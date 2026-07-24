@@ -1,0 +1,6 @@
+venv/
+ingest/fastapi-repo/
+__pycache__/
+*.pyc
+.env
+.DS_Store
